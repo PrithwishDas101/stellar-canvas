@@ -1,4 +1,4 @@
-ji# 🌌 StellarCanvas – NFT Gallery Smart Contract
+## 🌌 StellarCanvas – NFT Gallery Smart Contract
 
 ## 📌 Project Description
 
